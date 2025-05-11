@@ -21,7 +21,7 @@ public class Requisicao {
                     .send(request, HttpResponse.BodyHandlers.ofString());
 
             String json = response.body();
-            System.out.println("Dados da resposta da requisição\n" + json);
+            //System.out.println("Dados da resposta da requisição\n" + json);
             return json;
 
         } catch (Exception e) {

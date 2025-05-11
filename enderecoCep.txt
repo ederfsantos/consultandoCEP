@@ -1,0 +1,14 @@
+{
+  "logradouro": "Rua São Luis",
+  "complemento": "",
+  "unidade": "",
+  "bairro": "Jardim Real II",
+  "localidade": "Presidente Epitácio",
+  "uf": "SP",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "ibge": "3541307",
+  "gia": "5617",
+  "ddd": "18",
+  "siafi": "6927"
+}
